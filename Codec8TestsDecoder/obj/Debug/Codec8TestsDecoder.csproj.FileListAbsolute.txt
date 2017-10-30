@@ -1,0 +1,43 @@
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Codec8TestsDecoder.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Codec8TestsDecoder.pdb
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Codec8.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Codec8.pdb
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.csprojResolveAssemblyReference.cache
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.pdb
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Codec8TestsDecoder.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Codec8TestsDecoder.pdb
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Codec8.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Codec8.pdb
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.csprojResolveAssemblyReference.cache
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.csproj.CoreCompileInputs.cache
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.pdb
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Codec8TestsDecoder.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Codec8TestsDecoder.pdb
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Codec8.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Codec8.pdb
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.csprojResolveAssemblyReference.cache
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8TestsDecoder\obj\Debug\Codec8TestsDecoder.pdb

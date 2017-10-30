@@ -1,0 +1,24 @@
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\bin\Debug\Codec8.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\bin\Debug\Codec8.pdb
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.csprojResolveAssemblyReference.cache
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.dll
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.pdb
+Z:\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\bin\Debug\Codec8.dll
+Z:\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\bin\Debug\Codec8.pdb
+Z:\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.csprojResolveAssemblyReference.cache
+Z:\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.dll
+Z:\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.pdb
+D:\IoT\Tomas\UZDUOTYS\Codec 8 library\Codec8\Codec8\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8\bin\Debug\Codec8.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8\bin\Debug\Codec8.pdb
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.csprojResolveAssemblyReference.cache
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.csproj.CoreCompileInputs.cache
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.dll
+C:\Users\0111010001101111\Desktop\TELTONIKA\Codec8\Codec 8 library\Codec8\Codec8\obj\Debug\Codec8.pdb
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8\bin\Debug\Codec8.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8\bin\Debug\Codec8.pdb
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8\obj\Debug\Codec8.csprojResolveAssemblyReference.cache
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8\obj\Debug\Codec8.dll
+D:\IoT\Tomas\savaitgalioDarbai\Codec8\Codec8\obj\Debug\Codec8.pdb
